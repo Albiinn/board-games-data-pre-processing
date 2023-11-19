@@ -9,6 +9,7 @@ This Python script performs data preprocessing and feature engineering on a data
 - Python 3.x
 - pandas library (pip install pandas)
 - jupyter library (pip install jupyter)
+- sklearn library (pip install scikit-learn)
 
 ## Code Structure
 - `main.ipynb`: Main Jupyter Notebook for data processing.
@@ -46,5 +47,10 @@ This Python script performs data preprocessing and feature engineering on a data
 9. Binarization:
   - Binarize the 'average_playtime' column.
 
+10. PCA Dimensionality Reduction:
+  - Select five features and fill null values with the median.
+  - Apply PCA to reduce dimensionality to 2 components.
+
 ## Output
-Display information about the processed dataset.
+  - Display information about the processed dataset.
+  - Print the reduced features after PCA.
