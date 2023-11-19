@@ -11,8 +11,8 @@ This Python script performs data preprocessing and feature engineering on a data
 - jupyter library (pip install jupyter)
 
 ## Code Structure
-`main.ipynb`: Main Jupyter Notebook for data processing.
-`data/board_games.csv`: Input dataset in CSV format.
+- `main.ipynb`: Main Jupyter Notebook for data processing.
+- `data/board_games.csv`: Input dataset in CSV format.
 
 ## Steps Performed
 1. Data Loading:
