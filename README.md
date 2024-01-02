@@ -63,3 +63,22 @@ This Python script performs data preprocessing and feature engineering on a data
 
     <img width="1007" alt="Screenshot 2024-01-02 at 11 10 52 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/5f794004-74ed-41d2-92f0-8a10959875fa">
 
+9. Selecting features for outlier detection:
+
+    <img width="1007" alt="Screenshot 2024-01-02 at 11 19 01 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/1c4dd97a-ee7e-49ab-8a5f-81385e5ffa7c">
+
+10. Box Plot of Z-Scores for Outlier Detection:
+
+    <img width="1004" alt="Screenshot 2024-01-02 at 11 21 29 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/e5dc2887-fd52-4fcb-9122-74d0bcbca44c">
+
+11. Plotting the results for age analysis and player count analysis:
+
+    <img width="1009" alt="Screenshot 2024-01-02 at 11 22 50 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/68ceae4e-54d4-4fb4-95d4-5b1a882d9bdc">
+
+12. Numerical Columns Summary Statistics:
+
+    <img width="1006" alt="Screenshot 2024-01-02 at 11 26 00 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/c1c281d8-344f-46c0-80e3-19554e37059a">
+
+13. Categorical Column Summary Statistics:
+
+    <img width="1007" alt="Screenshot 2024-01-02 at 11 27 17 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/8b166ef9-f34b-4ec1-8309-78855e8896e6">
