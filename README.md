@@ -73,7 +73,7 @@ This Python script performs data preprocessing and feature engineering on a data
 
 11. Plotting the results for age analysis and player count analysis:
 
-    <img width="1009" alt="Screenshot 2024-01-02 at 11 22 50 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/68ceae4e-54d4-4fb4-95d4-5b1a882d9bdc">
+![image](https://github.com/Albiinn/board-games-data-pre-processing/assets/63552231/56e9c2a2-9684-4cdb-86b5-65f75c516019)
 
 12. Numerical Columns Summary Statistics:
 
@@ -82,3 +82,17 @@ This Python script performs data preprocessing and feature engineering on a data
 13. Categorical Column Summary Statistics:
 
     <img width="1007" alt="Screenshot 2024-01-02 at 11 27 17 PM" src="https://github.com/Albiinn/board-games-data-pre-processing/assets/56487491/8b166ef9-f34b-4ec1-8309-78855e8896e6">
+
+14. Visualization by data types:
+
+  ![image](https://github.com/Albiinn/board-games-data-pre-processing/assets/63552231/871fa474-cd7b-46e3-b7cc-09b24c66939e)
+  ![image](https://github.com/Albiinn/board-games-data-pre-processing/assets/63552231/8bdc3f82-c833-4339-b97a-249b7d86f2e5)
+
+15. Static and inerative visualization:
+
+  ![image](https://github.com/Albiinn/board-games-data-pre-processing/assets/63552231/1ebbe948-e56e-487a-a148-fdc36dc55f99)
+  ![image](https://github.com/Albiinn/board-games-data-pre-processing/assets/63552231/160af8f2-b74d-44b4-b9df-4758b64dce4e)
+  
+16. Visualization of multi-dimensional data
+
+  ![image](https://github.com/Albiinn/board-games-data-pre-processing/assets/63552231/a1b76fbb-c869-4095-8b0b-cf5bde83a7d3)
